@@ -1,0 +1,7 @@
+VEREMOS EN ESTE VÍDEO...
+• Como comenzar a elaborar el CRUD
+
+    -> Create
+    -> Read
+    -> Update
+    -> Delete

@@ -11,11 +11,11 @@
         include("conexion.php");
         
         //Obtenemos el id del objeto a borrar.
-        $id = $_GET["id"];
+        FALTA COMPLETAR ver archivo imagen con mismo nombre.png
         //echo "entra en borrar con id: $id ";
 
         //Creamos la query para que con el id introducido lo borre en la base de datos
-        $base -> query("DELETE FROM ud5_pildoras_datos_usuarios WHERE id='$id'");
+        FALTA COMPLETAR ver archivo imagen con mismo nombre.png
         //Se vuelve a cargar el arvhivo del formulario.
         header("Location:index.php");
     ?>

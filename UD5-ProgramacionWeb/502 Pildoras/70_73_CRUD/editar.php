@@ -28,7 +28,7 @@
     //Se crea la consulta para actualizar los campo y se ejecuta.
     $sql = "UPDATE ud5_pildoras_datos_usuarios SET nombre=:miNom, apellido=:miApe, direccion=:miDir WHERE id =:miId";
     $resultado = $base->prepare($sql);
-    $resultado -> execute(array(":miId"=>$id, ":miNom"=>$nom, ":miApe"=>$ape, ":miDir"=>$dir, ));
+    $resultado -> execute(array(FALTA-COMPLETAR ver archivo imagen con mismo nombre.png  ));
 
     //Redireccionamos a index.php
     header("Location:index.php");

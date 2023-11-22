@@ -67,12 +67,12 @@ if (isset($_POST['cr'])) {
           <?php echo $persona->direccion ?>
         </td>
         <!-- Botones para borrado y actulizacion -->
-        <td class="bot"><a href="borrar.php?id=<?php echo $persona->id ?>"><input type='button' name='del' id='del'
+        <td class="bot"><a FALTA-COMPLETAR ver archivo imagen con mismo nombre.png ?>"><input type='button' name='del' id='del'
               value='Borrar'></a></td>
 
         <!-- Añadimos los atributos necesarios para actualizar enviandolos por la url -->
         <td class='bot'><a
-            href="editar.php?id=<?php echo $persona->id ?> & nom=<?php echo $persona->nombre ?> & ape=<?php echo $persona->apellido ?> & dir=<?php echo $persona->direccion ?>"><input
+        FALTA-COMPLETAR ver archivo imagen con mismo nombre.png  ?>"><input
               type='button' name='up' id='up' value='Actualizar'></a></td>
       </tr>
 

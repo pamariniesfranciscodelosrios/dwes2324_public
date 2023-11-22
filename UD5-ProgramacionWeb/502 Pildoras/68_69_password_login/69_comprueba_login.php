@@ -26,6 +26,7 @@ require ("../config.php");
         $contador=0;
         while($registro=$resultado->fetch(PDO::FETCH_ASSOC)){
                 echo "<br> Usuario ". $registro['user']. " / Contraseña es ". $registro['pass'];
+                //SE verifica si la contraseña es correcta
                 if(password_verify($contra,$registro['pass'])){
                  $contador++;
                  echo "<br>Encontrado";

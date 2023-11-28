@@ -18,7 +18,7 @@
     <p>Esta prática es un sistema CRUD MVC, video 82 Píldoras</p>  
 
 <?php
-    require_once("controlador/Personas_controller.php");
+    require_once("FALTA COMPLETAR: en qué archivo se deberá iniciar todo?");
 ?>
 
 

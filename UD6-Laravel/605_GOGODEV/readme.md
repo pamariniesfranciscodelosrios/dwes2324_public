@@ -9,11 +9,14 @@
 ### Autoría:
 Antonio Jesús Marín Espejo- pamarin@iesfranciscodelosrios.es
 ### Índice tutoriales compartido:
-Enlace a documento otros enlaces: https://docs.google.com/spreadsheets/d/1TlTPsH7cqD5hOjx-rOBRUVRctjXe3eRFLp53xIHPYaU/edit#gid=1531092079 
-Todos los tutoriales que puedan aportar se pueden añadir a dicho documento mediante comentarios.
+Enlace a documento otros enlaces: https://docs.google.com/spreadsheets/d/1TlTPsH7cqD5hOjx-rOBRUVRctjXe3eRFLp53xIHPYaU/edit#gid=1531092079  
+Todos los tutoriales que puedan aportar se pueden añadir a dicho documento mediante comentarios.  
+![divide](divide.png)
 
 ## Introducción
+
 Vamos a ver una serie de videos dentro del Curso Profesional Laravel GOGODEV
+* Trabajaremos en equipo, repartiendo tutoriales y compartiendo código.
 * Realizaremos este curso completo en lugar de diferentes cursos y Bootcamps por NO repetir partes, para ser más eficientes y por sus buenos comentarios
 
 * Hay que tener en cuenta que el curso se crea con la versión 9 de Laravel, algunos elementos cambian con las nuevas versiones o si lo preferimos podemos crear nuestros proyectos con la versión 9 para mayor compatibilidad con los tutoriales.
